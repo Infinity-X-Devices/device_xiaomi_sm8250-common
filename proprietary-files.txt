@@ -42,6 +42,7 @@ vendor/lib/soundfx/libqcreverb.so
 vendor/lib/soundfx/libqcvirt.so
 vendor/lib64/soundfx/libqcbassboost.so
 vendor/lib64/soundfx/libqcvirt.so
+vendor/lib64/soundfx/libdlbvol.so
 
 # Audio FX AudioSphere
 system_ext/etc/permissions/audiosphere.xml
