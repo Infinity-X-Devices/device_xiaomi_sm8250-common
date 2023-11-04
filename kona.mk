@@ -483,7 +483,9 @@ PRODUCT_PACKAGES += \
     android.hardware.sensors@1.0-service
 
 PRODUCT_PACKAGES += \
-    libsensorndkbridge
+    libsensorndkbridge \
+    android.hardware.sensors@2.0 \
+    android.hardware.sensors@2.1
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
@@ -548,7 +550,7 @@ PRODUCT_COPY_FILES += \
 
 # Wi-Fi
 PRODUCT_PACKAGES += \
-    android.hardware.wifi@1.0-service \
+    android.hardware.wifi-service \
     hostapd \
     libwpa_client \
     libwifi-hal-ctrl \
