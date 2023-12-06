@@ -81,6 +81,9 @@ debug.cpurend.vsync=false
 # Disable Skia tracing by default
 debug.hwui.skia_atrace_enabled=false
 
+# Logs
+persist.log.tag.OpenGLRenderer=S
+
 # Radio VoNR
 persist.radio.is_vonr_enabled_0=true
 persist.radio.is_vonr_enabled_1=true
