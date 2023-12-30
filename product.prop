@@ -1,3 +1,6 @@
+# Blur
+ro.launcher.blur.appLaunch=0
+
 # Gboard paddings
 # Keyboard height ratio and bottom padding in dp for portrait mode
 ro.com.google.ime.height_ratio=1.075
