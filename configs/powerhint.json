@@ -350,15 +350,6 @@
       "ResetOnInit": true
     },
     {
-      "Name": "PMQoSCpuDmaLatency",
-      "Path": "/dev/cpu_dma_latency",
-      "Values": [
-        "2c",
-        "100"
-      ],
-      "HoldFd": true
-    },
-    {
       "Name": "F2fsRecessModeEnable",
       "Path": "/dev/sys/fs/by-name/userdata/gc_urgent",
       "Values": [
